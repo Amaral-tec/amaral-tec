@@ -1,4 +1,5 @@
 ### Hi dear 👋, I'm Leandro Amaral. I'm a backend developer, and my primary language is Java, but I also work in C#, Python, and PHP.
+### I develop web applications with TDD (Test Driven Development) techniques in monolithic and microservices architectures.
 
 <div align="center">
   <a href="https://github.com/Amaral-tec">
