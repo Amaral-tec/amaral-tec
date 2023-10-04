@@ -1,35 +1,34 @@
-### Hi dear 👋, I'm Leandro Amaral. I'm a backend developer, and my primary language is Java, but I also work in C#, Python, and PHP.
-### I develop web applications with TDD (Test Driven Development) techniques in monolithic and microservices architectures.
+### Hi there, I'm Leandro Amaral! 👋
 
-<div align="center">
-  <a href="https://github.com/Amaral-tec">
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-  
-  ##
- 
-<div> 
- 
-</div>
+I'm a passionate Java developer with a strong backend focus, specializing in building robust and scalable applications using Spring Boot. With a deep love for clean code and efficient problem-solving, I strive to deliver high-quality software solutions that meet and exceed client expectations.
 
-<!--
-**Amaral-tec/amaral-tec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **What I bring to the table:**
 
-Here are some ideas to get you started:
+- **Java Expertise:** I have extensive experience working with Java and leveraging its power to craft efficient and maintainable backend systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Spring Boot Ninja:** I'm well-versed in Spring Boot, harnessing its capabilities to create RESTful APIs, microservices, and web applications.
+
+- **Database Proficiency:** I'm comfortable with various databases, including SQL and NoSQL, ensuring data persistence and retrieval is a breeze.
+
+- **English and Portuguese Fluency:** I'm fluent in both English and Portuguese, enabling seamless communication and collaboration in multicultural teams.
+
+- **DevOps Enthusiast:** I'm a strong advocate for DevOps practices, enabling CI/CD pipelines, containerization, and infrastructure as code.
+
+🚀 **What I'm currently working on:**
+
+I'm continuously sharpening my skills and exploring new technologies to stay at the forefront of backend development. Right now, I'm diving deeper into [Mention any specific technology or project you're currently working on].
+
+💬 **Let's Connect:**
+
+I'm always open to networking, collaborating on exciting projects, or discussing the latest trends in Java and Spring Boot. Feel free to reach out to me in English or Portuguese, and let's connect!
+
+<!--📫 **How to reach me:**
+
+You can find me on [LinkedIn](https://www.linkedin.com/in/seunome) or drop me an email at [seunome@email.com].
+
+🌐 **Visit my portfolio:** [Portfolio Link](https://www.yourportfolio.com) -->
+
+Thanks for visiting my GitHub profile, and I look forward to connecting with you!
+
+Happy coding! 🖥️
+
