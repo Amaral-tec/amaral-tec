@@ -8,10 +8,6 @@ I'm a passionate Java developer with a strong backend focus, specializing in bui
 
 - **Spring Boot:** I'm well-versed in Spring Boot, harnessing its capabilities to create RESTful APIs, microservices, and web applications.
 
-- **Database Proficiency:** I'm comfortable with various databases, including SQL and NoSQL, ensuring data persistence and retrieval is a breeze.
-
-- **English and Portuguese Fluency:** I'm fluent in both English and Portuguese, enabling seamless communication and collaboration in multicultural teams.
-
 - **DevOps Enthusiast:** I'm a strong advocate for DevOps practices, enabling CI/CD pipelines, containerization, and infrastructure as code.
 
 🚀 What I'm currently working on:
