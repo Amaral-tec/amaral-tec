@@ -1,44 +1,29 @@
-### Hi there, I'm Leandro Amaral! 👋
+### 👋 Welcome to My Repository!
 
-I'm a passionate Java developer with a strong backend focus, specializing in building robust and scalable applications using Spring Boot. With a deep love for clean code and efficient problem-solving, I strive to deliver high-quality software solutions that meet and exceed client expectations.
+Hi there! I'm Leandro Amaral, a web developer with a focus on backend development, dedicated to building robust and scalable applications. My expertise spans across multiple technologies and architectures, including:
 
-🌟 **What I bring to the table:**
+- **Java with Spring Boot:** Crafting RESTful APIs, microservices, and web applications using the power of Spring Boot to create efficient and maintainable backend systems.
 
-- **Java Expertise:** I have experience in building e-commerce solutions, working with Java, and leveraging its power to create efficient and easy-to-maintain back-end systems.
+- **C# with .NET** Developing applications following the MVC architecture, with a strong emphasis on building reliable and scalable solutions.
 
-- **Spring Boot:** I'm well-versed in Spring Boot, harnessing its capabilities to create RESTful APIs, microservices, and web applications.
+- **Mobile Development with Flutter:** Creating mobile apps that provide an excellent user experience.
 
-- **DevOps Enthusiast:** I'm a strong advocate for DevOps practices, enabling CI/CD pipelines, containerization, and infrastructure as code.
+- **Frontend with Angular and Bootstrap:** Developing dynamic and responsive user interfaces to deliver an intuitive and engaging user experience.
+
+🌐 **Architecture Expertise:**
+I have extensive experience in working with both REST and MVC architectures, ensuring that applications are well-structured, maintainable, and scalable. Whether it’s creating RESTful APIs with Spring Boot or implementing MVC patterns in .NET, I focus on delivering high-quality solutions that meet modern software development standards.
 
 🚀 What I'm currently working on:
 
-I'm currently in the midst of an exciting e-commerce project that combines the best of modern technology and architecture. Here's a glimpse of what's keeping me busy:
+I'm currently involved in an exciting e-commerce project that brings together the best of modern technology and architecture. Here’s a glimpse of what’s keeping me busy:
 
-🌐 Java & Spring Boot REST API: Building a robust and scalable backend using Java and Spring Boot to handle all the core functionalities of our e-commerce platform.
-
-🌟 Angular 15 Front-End: Crafting a dynamic and engaging user interface with Angular 15 to provide a seamless shopping experience.
-
-☁️ AWS Load Balancing: Implementing AWS Load Balancers to efficiently distribute traffic among multiple instances, ensuring high availability and performance.
-
-🔄 Front-End & Back-End Integration: Seamlessly integrating the frontend and backend components to provide real-time updates, smooth transactions, and an overall cohesive user experience.
-
-📧 API Integration: Connecting with external APIs for email services, transportation, credit card payments, and Online Payment Services generation to offer a wide range of payment and communication options.
-
-🌐 Serverless Architecture: Designing and implementing a serverless architecture to enhance scalability, reduce operational overhead, and optimize cost management for our application.
-
-This project represents a convergence of cutting-edge technologies, and I'm excited to see it come to life. Stay tuned for more updates as we continue to shape the future of e-commerce!
-
-Feel free to reach out if you'd like to learn more about the project, collaborate, or simply share your insights into the ever-evolving world of e-commerce and technology. Let's connect and innovate together! 🛒💻🌟
+- **Backend with Java & Spring Boot:** Building a robust and scalable REST API to handle all core functionalities of our e-commerce platform.
+- **Frontend with Angular 15:** Crafting a dynamic and engaging user interface to provide a seamless shopping experience.
+- **API Integration:** Connecting with external APIs for email services, transportation, credit card payments, and online payment services generation.
 
 💬 **Let's Connect:**
 
-I'm always open to networking, collaborating on exciting projects, or discussing the latest trends in Java and Spring Boot. Feel free to reach out to me in English or Portuguese, and let's connect!
-
-<!--📫 **How to reach me:**
-
-You can find me on [LinkedIn](https://www.linkedin.com/in/seunome) or drop me an email at [seunome@email.com].
-
-🌐 **Visit my portfolio:** [Portfolio Link](https://www.yourportfolio.com) -->
+I'm always open to networking, collaborating on exciting projects, or discussing the latest trends in Java, Spring Boot, .NET, and software development in general. Feel free to reach out to me in English or Portuguese. Let’s innovate together!
 
 Thanks for visiting my GitHub profile, and I look forward to connecting with you!
 
