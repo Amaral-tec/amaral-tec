@@ -27,11 +27,5 @@ I'm always open to networking, collaborating on exciting projects, or discussing
 
 Thanks for visiting my GitHub profile, and I look forward to connecting with you!
 
-## 🌍 Languages I Speak
-
-- 🇧🇷 **Portuguese** (Native)
-- 🇬🇧 **English** (Intermediate)
-- 🇪🇸 **Spanish** (Intermediate)
-
 Happy coding! 🖥️
 
