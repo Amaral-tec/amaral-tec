@@ -2,9 +2,9 @@
 
 Hi there! I'm Leandro Amaral, a web developer with a focus on backend development, dedicated to building robust and scalable applications. My expertise spans across multiple technologies and architectures, including:
 
-- **Java with Spring Boot:** Crafting RESTful APIs, microservices, and web applications using the power of Spring Boot to create efficient and maintainable backend systems.
-
 - **C# with .NET** Developing applications following the MVC architecture, with a strong emphasis on building reliable and scalable solutions.
+
+- **Java with Spring Boot:** Crafting RESTful APIs, microservices, and web applications using the power of Spring Boot to create efficient and maintainable backend systems.
 
 - **Mobile Development with Flutter:** Creating mobile apps that provide an excellent user experience.
 
